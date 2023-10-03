@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-26T02:24:05Z" name="Default suite" finished-at="2023-09-26T02:24:11Z" duration-ms="6698">
+    <groups>
+    </groups>
+    <test started-at="2023-09-26T02:24:05Z" name="Default test" finished-at="2023-09-26T02:24:11Z" duration-ms="6698">
+      <class name="POM.RunnerClass">
+        <test-method is-config="true" signature="bt()[pri:0, instance:POM.RunnerClass@7a35b0f5]" started-at="2023-09-26T02:24:05Z" name="bt" finished-at="2023-09-26T02:24:10Z" duration-ms="5215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method signature="execution()[pri:0, instance:POM.RunnerClass@7a35b0f5]" started-at="2023-09-26T02:24:10Z" name="execution" finished-at="2023-09-26T02:24:11Z" duration-ms="780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execution -->
+        <test-method is-config="true" signature="at()[pri:0, instance:POM.RunnerClass@7a35b0f5]" started-at="2023-09-26T02:24:11Z" name="at" finished-at="2023-09-26T02:24:11Z" duration-ms="637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+      </class> <!-- POM.RunnerClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
